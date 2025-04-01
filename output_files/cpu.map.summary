@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Tue Apr 01 13:32:04 2025
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : cpu
+Top-level Entity Name : fsm
+Family : MAX 10
+Total logic elements : 880
+    Total combinational functions : 652
+    Dedicated logic registers : 341
+Total registers : 341
+Total pins : 210
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
