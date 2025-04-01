@@ -1,7 +1,7 @@
 # IITB RISC Computing System
 
 ## Overview
-This repository contains the design and implementation of a **16-bit RISC-based computing system** developed as part of the **Digital Circuits** course project at **IIT Bombay** under the guidance of **Prof. Virendra Singh**.
+This repository contains the design and implementation of a **16-bit RISC-based computing system** developed as part of the **Digital Systems** course project at **IIT Bombay** under the guidance of **Prof. Virendra Singh**.
 
 ## Project Details
 - Designed a **16-bit computing system** with **16-bit registers** and **64-kB RAM**.
